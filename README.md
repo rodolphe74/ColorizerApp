@@ -1,7 +1,8 @@
 # ColorizerApp
+MacOs project aim to color black and white pictures using a neural network.
 
 ## project creation
-⚠ Need to adapt -DCMAKE_TOOLCHAIN_FILE=/Users/rodoc/develop/vcpkg/scripts/buildsystems/vcpkg.cmake to your real vcpkg.cmake path. Depends where vcpkg is installed.
+⚠ Need to adapt -DCMAKE_TOOLCHAIN_FILE=/Users/rodoc/develop/vcpkg/scripts/buildsystems/vcpkg.cmake to your real vcpkg.cmake path in proj.sh file. Depends where vcpkg is installed.
 
 ```shell
 cd ~
