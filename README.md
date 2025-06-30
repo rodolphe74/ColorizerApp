@@ -1,5 +1,5 @@
 # ColorizerApp
-MacOs project aim to color black and white pictures using a neural network.
+MacOs project aim at color black and white pictures using a neural network.
 More informations on how the colorization process works here :
 * [Richard Zhang - Colorful Image Colorization](http://videolectures.net/eccv2016_zhang_image_colorization/)
 * [Learn OpenCV - Convolutional Neural Network based Image Colorization using OpenCV](https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/)
