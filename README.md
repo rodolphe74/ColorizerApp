@@ -1,5 +1,8 @@
 # ColorizerApp
 MacOs project aim to color black and white pictures using a neural network.
+More informations on how the colorization process works here :
+* [Richard Zhang - Colorful Image Colorization](http://videolectures.net/eccv2016_zhang_image_colorization/)
+* [Learn OpenCV - Convolutional Neural Network based Image Colorization using OpenCV](https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/)
 
 ## project creation
 ⚠ Need to adapt -DCMAKE_TOOLCHAIN_FILE=/Users/rodoc/develop/vcpkg/scripts/buildsystems/vcpkg.cmake to your real vcpkg.cmake path in proj.sh file. Depends where vcpkg is installed.
