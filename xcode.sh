@@ -1,0 +1,1 @@
+cmake -G Xcode -B xcode -S .  -DCMAKE_TOOLCHAIN_FILE=/Users/rodoc/develop/vcpkg/scripts/buildsystems/vcpkg.cmake -DVCPKG_TARGET_TRIPLET=x64-windows -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE=Debug

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/rodoc/develop/Colorizer/debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -x objective-c++ -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/Colorizer.dir/main.mm.o -c /Users/rodoc/develop/Colorizer/main.mm",
+  "file": "/Users/rodoc/develop/Colorizer/main.mm",
+  "output": "CMakeFiles/Colorizer.dir/main.mm.o"
+},
+{
+  "directory": "/Users/rodoc/develop/Colorizer/debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -x objective-c++ -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/Colorizer.dir/AppDelegate.mm.o -c /Users/rodoc/develop/Colorizer/AppDelegate.mm",
+  "file": "/Users/rodoc/develop/Colorizer/AppDelegate.mm",
+  "output": "CMakeFiles/Colorizer.dir/AppDelegate.mm.o"
+}
+]
