@@ -1,5 +1,6 @@
 # ColorizerApp
 
+## project creation
 ```shell
 cd ~
 git clone https://github.com/microsoft/vcpkg.git
@@ -16,3 +17,6 @@ cd debug
 make
 open Colorizer.app
 ```
+
+## Xcode project creation
+use ./xcode.sh instead of proj.sh
