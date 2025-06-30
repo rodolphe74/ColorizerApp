@@ -1,6 +1,8 @@
 # ColorizerApp
 
 ## project creation
+⚠ Need to adapt -DCMAKE_TOOLCHAIN_FILE=/Users/rodoc/develop/vcpkg/scripts/buildsystems/vcpkg.cmake to your real vcpkg.cmake path. Depends where vcpkg is installed.
+
 ```shell
 cd ~
 git clone https://github.com/microsoft/vcpkg.git
