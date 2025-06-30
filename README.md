@@ -19,4 +19,4 @@ open Colorizer.app
 ```
 
 ## Xcode project creation
-use ./xcode.sh instead of proj.sh
+use ./xcode.sh instead of ./proj.sh
