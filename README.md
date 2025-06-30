@@ -20,3 +20,5 @@ open Colorizer.app
 
 ## Xcode project creation
 use ./xcode.sh instead of ./proj.sh
+
+<img src="resources/sample.png">
